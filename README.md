@@ -1,5 +1,5 @@
 # AI-IDS
-Artificial Intelligence based Intrusion Detection System
+Artificial Intelligence based ~Intrusion Detection System~.
 
 ## Progress
 - [ ] Learning stage.
